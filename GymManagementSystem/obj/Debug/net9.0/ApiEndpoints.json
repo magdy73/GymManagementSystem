@@ -74,6 +74,22 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "GymManagementSystem.Controllers.AuthController",
+    "Method": "Register",
+    "RelativePath": "api/Auth/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "registerDTO",
+        "Type": "GymManagementSystem.DTO.RegisterDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "GymManagementSystem.Controllers.MemberController",
     "Method": "GetMembers",
     "RelativePath": "api/Member",

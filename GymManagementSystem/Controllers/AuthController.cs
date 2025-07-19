@@ -23,5 +23,14 @@ namespace GymManagementSystem.Controllers
                 return Unauthorized("Invalid Username or Password"); 
             return Ok(new { token });
         }
+        [HttpPost("register")]
+        public async Task<IActionResult> Register([FromBody]RegisterDTO registerDTO)
+        {
+            var IsRegistered=await authService.Register(registerDTO);
+            if (!IsRegistered)
+                return BadRequest("User already exists");
+            return Ok("User registered successfully");
+
+        }
     }
 }

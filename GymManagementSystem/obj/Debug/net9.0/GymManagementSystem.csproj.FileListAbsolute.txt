@@ -481,3 +481,4 @@ D:\MyProjects\GymManagementSystem\GymManagementSystem\bin\Debug\net9.0\Microsoft
 D:\MyProjects\GymManagementSystem\GymManagementSystem\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 D:\MyProjects\GymManagementSystem\GymManagementSystem\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
 D:\MyProjects\GymManagementSystem\GymManagementSystem\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+D:\MyProjects\GymManagementSystem\GymManagementSystem\obj\Debug\net9.0\GymManagementSystem.sourcelink.json

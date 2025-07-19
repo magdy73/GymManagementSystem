@@ -1,4 +1,5 @@
 ﻿using GymManagementSystem.Data;
+using GymManagementSystem.DataModels;
 using GymManagementSystem.DTO;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
@@ -39,6 +40,22 @@ namespace GymManagementSystem.Services
 
 
 
+        }
+
+        public async Task<bool> Register(RegisterDTO registerDTO)
+        {
+            if (await context.user.AnyAsync(u => u.UserName == registerDTO.UserName))
+                return false;
+            var NewUser = new UserModel
+            {
+                UserName = registerDTO.UserName,
+                Password = registerDTO.Password,
+                Role = registerDTO.Role
+
+            };
+            context.Add(NewUser);
+            await context.SaveChangesAsync();
+            return true;
         }
     }
 }
