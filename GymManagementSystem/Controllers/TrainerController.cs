@@ -1,5 +1,6 @@
 ﻿using GymManagementSystem.DataModels;
 using GymManagementSystem.Services;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -28,6 +29,7 @@ namespace GymManagementSystem.Controllers
             return Ok(trainer);
         }
         [HttpPost]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> AddTrainer(TrainerModel NewTrainer)
         {
             if (NewTrainer == null) return NotFound();
@@ -35,12 +37,14 @@ namespace GymManagementSystem.Controllers
             return Ok(AddedTrainer);
         }
         [HttpPut("{id}")]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> UpdateTrainer(int id , TrainerModel trainer) 
         {
             var IsUpdated=await trainerService.UpdateTrainerAsync(id, trainer);
             return IsUpdated ? NoContent() : BadRequest();
         }
         [HttpDelete("{id}")]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult>DeleteTrainer(int id)
         {
             var IsDeleted=await trainerService.DeleteTrainerAsync(id);

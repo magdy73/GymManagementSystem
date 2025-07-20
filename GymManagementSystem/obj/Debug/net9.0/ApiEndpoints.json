@@ -1,5 +1,52 @@
 [
   {
+    "ContainingType": "GymManagementSystem.Controllers.AdminMethodsController",
+    "Method": "Delete",
+    "RelativePath": "api/AdminMethods/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GymManagementSystem.Controllers.AdminMethodsController",
+    "Method": "GetAllUsers",
+    "RelativePath": "api/AdminMethods/all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GymManagementSystem.Controllers.AdminMethodsController",
+    "Method": "AssginTrainer",
+    "RelativePath": "api/AdminMethods/Assign-Trainer",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "MemberId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "TrainerId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "GymManagementSystem.Controllers.AttendenceController",
     "Method": "GetAll",
     "RelativePath": "api/Attendence",
@@ -43,7 +90,7 @@
   },
   {
     "ContainingType": "GymManagementSystem.Controllers.AttendenceController",
-    "Method": "Filter",
+    "Method": "FilterAttendance",
     "RelativePath": "api/Attendence/filter",
     "HttpMethod": "POST",
     "IsController": true,

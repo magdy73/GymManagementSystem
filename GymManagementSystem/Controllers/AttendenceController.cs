@@ -1,6 +1,7 @@
 ﻿using GymManagementSystem.DataModels;
 using GymManagementSystem.DTO;
 using GymManagementSystem.Services;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -18,6 +19,7 @@ namespace GymManagementSystem.Controllers
 
         }
         [HttpGet]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> GetAll()
         { 
             var att= await attendenceService.GetAllAttendancesAsync();
@@ -36,7 +38,8 @@ namespace GymManagementSystem.Controllers
             return Ok(AddAtt);
         }
         [HttpPost("filter")]
-        public async Task<IActionResult> Filter([FromBody]AttendenceFilterDTO filter)
+        [Authorize(Roles = "Admin")]
+        public async Task<IActionResult> FilterAttendance([FromBody]AttendenceFilterDTO filter)
         {
             var result=await attendenceService.FilterAsync(filter);
             return Ok(result);

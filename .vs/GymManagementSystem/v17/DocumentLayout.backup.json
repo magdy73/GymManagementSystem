@@ -3,40 +3,68 @@
   "WorkspaceRootPath": "D:\\MyProjects\\GymManagementSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7D843D75-DAB1-4C87-8214-D39661A941C2}|GymManagementSystem\\GymManagementSystem.csproj|d:\\myprojects\\gymmanagementsystem\\gymmanagementsystem\\controllers\\trainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D843D75-DAB1-4C87-8214-D39661A941C2}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\controllers\\trainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D843D75-DAB1-4C87-8214-D39661A941C2}|GymManagementSystem\\GymManagementSystem.csproj|d:\\myprojects\\gymmanagementsystem\\gymmanagementsystem\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D843D75-DAB1-4C87-8214-D39661A941C2}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7D843D75-DAB1-4C87-8214-D39661A941C2}|GymManagementSystem\\GymManagementSystem.csproj|d:\\myprojects\\gymmanagementsystem\\gymmanagementsystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D843D75-DAB1-4C87-8214-D39661A941C2}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D843D75-DAB1-4C87-8214-D39661A941C2}|GymManagementSystem\\GymManagementSystem.csproj|d:\\myprojects\\gymmanagementsystem\\gymmanagementsystem\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D843D75-DAB1-4C87-8214-D39661A941C2}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D843D75-DAB1-4C87-8214-D39661A941C2}|GymManagementSystem\\GymManagementSystem.csproj|d:\\myprojects\\gymmanagementsystem\\gymmanagementsystem\\controllers\\attendencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D843D75-DAB1-4C87-8214-D39661A941C2}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\controllers\\attendencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D843D75-DAB1-4C87-8214-D39661A941C2}|GymManagementSystem\\GymManagementSystem.csproj|d:\\myprojects\\gymmanagementsystem\\gymmanagementsystem\\controllers\\adminmethodscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D843D75-DAB1-4C87-8214-D39661A941C2}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\controllers\\adminmethodscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D843D75-DAB1-4C87-8214-D39661A941C2}|GymManagementSystem\\GymManagementSystem.csproj|d:\\myprojects\\gymmanagementsystem\\gymmanagementsystem\\dto\\userinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D843D75-DAB1-4C87-8214-D39661A941C2}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\dto\\userinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D843D75-DAB1-4C87-8214-D39661A941C2}|GymManagementSystem\\GymManagementSystem.csproj|d:\\myprojects\\gymmanagementsystem\\gymmanagementsystem\\services\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D843D75-DAB1-4C87-8214-D39661A941C2}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\services\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D843D75-DAB1-4C87-8214-D39661A941C2}|GymManagementSystem\\GymManagementSystem.csproj|d:\\myprojects\\gymmanagementsystem\\gymmanagementsystem\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D843D75-DAB1-4C87-8214-D39661A941C2}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D843D75-DAB1-4C87-8214-D39661A941C2}|GymManagementSystem\\GymManagementSystem.csproj|d:\\myprojects\\gymmanagementsystem\\gymmanagementsystem\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D843D75-DAB1-4C87-8214-D39661A941C2}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D843D75-DAB1-4C87-8214-D39661A941C2}|GymManagementSystem\\GymManagementSystem.csproj|d:\\myprojects\\gymmanagementsystem\\gymmanagementsystem\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D843D75-DAB1-4C87-8214-D39661A941C2}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7D843D75-DAB1-4C87-8214-D39661A941C2}|GymManagementSystem\\GymManagementSystem.csproj|d:\\myprojects\\gymmanagementsystem\\gymmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D843D75-DAB1-4C87-8214-D39661A941C2}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D843D75-DAB1-4C87-8214-D39661A941C2}|GymManagementSystem\\GymManagementSystem.csproj|d:\\myprojects\\gymmanagementsystem\\gymmanagementsystem\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D843D75-DAB1-4C87-8214-D39661A941C2}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D843D75-DAB1-4C87-8214-D39661A941C2}|GymManagementSystem\\GymManagementSystem.csproj|d:\\myprojects\\gymmanagementsystem\\gymmanagementsystem\\services\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D843D75-DAB1-4C87-8214-D39661A941C2}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\services\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D843D75-DAB1-4C87-8214-D39661A941C2}|GymManagementSystem\\GymManagementSystem.csproj|d:\\myprojects\\gymmanagementsystem\\gymmanagementsystem\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D843D75-DAB1-4C87-8214-D39661A941C2}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D843D75-DAB1-4C87-8214-D39661A941C2}|GymManagementSystem\\GymManagementSystem.csproj|d:\\myprojects\\gymmanagementsystem\\gymmanagementsystem\\datamodels\\paymentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D843D75-DAB1-4C87-8214-D39661A941C2}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\datamodels\\paymentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D843D75-DAB1-4C87-8214-D39661A941C2}|GymManagementSystem\\GymManagementSystem.csproj|d:\\myprojects\\gymmanagementsystem\\gymmanagementsystem\\datamodels\\attendancemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D843D75-DAB1-4C87-8214-D39661A941C2}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\datamodels\\attendancemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D843D75-DAB1-4C87-8214-D39661A941C2}|GymManagementSystem\\GymManagementSystem.csproj|d:\\myprojects\\gymmanagementsystem\\gymmanagementsystem\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D843D75-DAB1-4C87-8214-D39661A941C2}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D843D75-DAB1-4C87-8214-D39661A941C2}|GymManagementSystem\\GymManagementSystem.csproj|d:\\myprojects\\gymmanagementsystem\\gymmanagementsystem\\services\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D843D75-DAB1-4C87-8214-D39661A941C2}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\services\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D843D75-DAB1-4C87-8214-D39661A941C2}|GymManagementSystem\\GymManagementSystem.csproj|d:\\myprojects\\gymmanagementsystem\\gymmanagementsystem\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D843D75-DAB1-4C87-8214-D39661A941C2}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D843D75-DAB1-4C87-8214-D39661A941C2}|GymManagementSystem\\GymManagementSystem.csproj|d:\\myprojects\\gymmanagementsystem\\gymmanagementsystem\\datamodels\\attendancemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D843D75-DAB1-4C87-8214-D39661A941C2}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\datamodels\\attendancemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,67 +74,145 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrainerController.cs",
+              "DocumentMoniker": "D:\\MyProjects\\GymManagementSystem\\GymManagementSystem\\Controllers\\TrainerController.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\Controllers\\TrainerController.cs",
+              "ToolTip": "D:\\MyProjects\\GymManagementSystem\\GymManagementSystem\\Controllers\\TrainerController.cs*",
+              "RelativeToolTip": "GymManagementSystem\\Controllers\\TrainerController.cs*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAIwC4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T10:32:48.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MemberController.cs",
+              "DocumentMoniker": "D:\\MyProjects\\GymManagementSystem\\GymManagementSystem\\Controllers\\MemberController.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\Controllers\\MemberController.cs",
+              "ToolTip": "D:\\MyProjects\\GymManagementSystem\\GymManagementSystem\\Controllers\\MemberController.cs*",
+              "RelativeToolTip": "GymManagementSystem\\Controllers\\MemberController.cs*",
+              "ViewState": "AgIAACoAAAAAAAAAAAAIwD0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T10:31:00.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AttendenceController.cs",
+              "DocumentMoniker": "D:\\MyProjects\\GymManagementSystem\\GymManagementSystem\\Controllers\\AttendenceController.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\Controllers\\AttendenceController.cs",
+              "ToolTip": "D:\\MyProjects\\GymManagementSystem\\GymManagementSystem\\Controllers\\AttendenceController.cs*",
+              "RelativeToolTip": "GymManagementSystem\\Controllers\\AttendenceController.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAnwCkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T10:27:39.105Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
+              "Title": "UserInfoDTO.cs",
+              "DocumentMoniker": "D:\\MyProjects\\GymManagementSystem\\GymManagementSystem\\DTO\\UserInfoDTO.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\DTO\\UserInfoDTO.cs",
+              "ToolTip": "D:\\MyProjects\\GymManagementSystem\\GymManagementSystem\\DTO\\UserInfoDTO.cs",
+              "RelativeToolTip": "GymManagementSystem\\DTO\\UserInfoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T10:23:57.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminMethodsController.cs",
+              "DocumentMoniker": "D:\\MyProjects\\GymManagementSystem\\GymManagementSystem\\Controllers\\AdminMethodsController.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\Controllers\\AdminMethodsController.cs",
+              "ToolTip": "D:\\MyProjects\\GymManagementSystem\\GymManagementSystem\\Controllers\\AdminMethodsController.cs",
+              "RelativeToolTip": "GymManagementSystem\\Controllers\\AdminMethodsController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T09:54:53.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "D:\\MyProjects\\GymManagementSystem\\GymManagementSystem\\Services\\AdminService.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\Services\\AdminService.cs",
+              "ToolTip": "D:\\MyProjects\\GymManagementSystem\\GymManagementSystem\\Services\\AdminService.cs",
+              "RelativeToolTip": "GymManagementSystem\\Services\\AdminService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T09:33:05.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAdminService.cs",
+              "DocumentMoniker": "D:\\MyProjects\\GymManagementSystem\\GymManagementSystem\\Services\\IAdminService.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\Services\\IAdminService.cs",
+              "ToolTip": "D:\\MyProjects\\GymManagementSystem\\GymManagementSystem\\Services\\IAdminService.cs",
+              "RelativeToolTip": "GymManagementSystem\\Services\\IAdminService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T09:23:42.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "RegisterDTO.cs",
               "DocumentMoniker": "D:\\MyProjects\\GymManagementSystem\\GymManagementSystem\\DTO\\RegisterDTO.cs",
               "RelativeDocumentMoniker": "GymManagementSystem\\DTO\\RegisterDTO.cs",
-              "ToolTip": "D:\\MyProjects\\GymManagementSystem\\GymManagementSystem\\DTO\\RegisterDTO.cs*",
-              "RelativeToolTip": "GymManagementSystem\\DTO\\RegisterDTO.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "ToolTip": "D:\\MyProjects\\GymManagementSystem\\GymManagementSystem\\DTO\\RegisterDTO.cs",
+              "RelativeToolTip": "GymManagementSystem\\DTO\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-19T11:42:00.311Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "AuthController.cs",
               "DocumentMoniker": "D:\\MyProjects\\GymManagementSystem\\GymManagementSystem\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "GymManagementSystem\\Controllers\\AuthController.cs",
-              "ToolTip": "D:\\MyProjects\\GymManagementSystem\\GymManagementSystem\\Controllers\\AuthController.cs*",
-              "RelativeToolTip": "GymManagementSystem\\Controllers\\AuthController.cs*",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB8AAAAzAAAAAAAAAA==",
+              "ToolTip": "D:\\MyProjects\\GymManagementSystem\\GymManagementSystem\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "GymManagementSystem\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-18T14:07:36.365Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "AuthService.cs",
               "DocumentMoniker": "D:\\MyProjects\\GymManagementSystem\\GymManagementSystem\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "GymManagementSystem\\Services\\AuthService.cs",
-              "ToolTip": "D:\\MyProjects\\GymManagementSystem\\GymManagementSystem\\Services\\AuthService.cs*",
-              "RelativeToolTip": "GymManagementSystem\\Services\\AuthService.cs*",
-              "ViewState": "AgIAACIAAAAAAAAAAAAowDkAAAAYAAAAAAAAAA==",
+              "ToolTip": "D:\\MyProjects\\GymManagementSystem\\GymManagementSystem\\Services\\AuthService.cs",
+              "RelativeToolTip": "GymManagementSystem\\Services\\AuthService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAowCwAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-18T11:20:55.571Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IAuthService.cs",
-              "DocumentMoniker": "D:\\MyProjects\\GymManagementSystem\\GymManagementSystem\\Services\\IAuthService.cs",
-              "RelativeDocumentMoniker": "GymManagementSystem\\Services\\IAuthService.cs",
-              "ToolTip": "D:\\MyProjects\\GymManagementSystem\\GymManagementSystem\\Services\\IAuthService.cs*",
-              "RelativeToolTip": "GymManagementSystem\\Services\\IAuthService.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T11:19:15.32Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 14,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\MyProjects\\GymManagementSystem\\GymManagementSystem\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "GymManagementSystem\\Data\\AppDbContext.cs",
@@ -118,32 +224,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\MyProjects\\GymManagementSystem\\GymManagementSystem\\Program.cs",
               "RelativeDocumentMoniker": "GymManagementSystem\\Program.cs",
               "ToolTip": "D:\\MyProjects\\GymManagementSystem\\GymManagementSystem\\Program.cs",
               "RelativeToolTip": "GymManagementSystem\\Program.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAuwDEAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-13T12:29:36.258Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
+              "Title": "IPaymentService.cs",
+              "DocumentMoniker": "D:\\MyProjects\\GymManagementSystem\\GymManagementSystem\\Services\\IPaymentService.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\Services\\IPaymentService.cs",
+              "ToolTip": "D:\\MyProjects\\GymManagementSystem\\GymManagementSystem\\Services\\IPaymentService.cs",
+              "RelativeToolTip": "GymManagementSystem\\Services\\IPaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T12:49:46.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\MyProjects\\GymManagementSystem\\GymManagementSystem\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\Services\\IAuthService.cs",
+              "ToolTip": "D:\\MyProjects\\GymManagementSystem\\GymManagementSystem\\Services\\IAuthService.cs",
+              "RelativeToolTip": "GymManagementSystem\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T11:19:15.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "PaymentModel.cs",
               "DocumentMoniker": "D:\\MyProjects\\GymManagementSystem\\GymManagementSystem\\DataModels\\PaymentModel.cs",
               "RelativeDocumentMoniker": "GymManagementSystem\\DataModels\\PaymentModel.cs",
               "ToolTip": "D:\\MyProjects\\GymManagementSystem\\GymManagementSystem\\DataModels\\PaymentModel.cs",
               "RelativeToolTip": "GymManagementSystem\\DataModels\\PaymentModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBEAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T11:34:25.086Z"
+              "WhenOpened": "2025-07-16T11:34:25.086Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "AttendanceModel.cs",
               "DocumentMoniker": "D:\\MyProjects\\GymManagementSystem\\GymManagementSystem\\DataModels\\AttendanceModel.cs",
               "RelativeDocumentMoniker": "GymManagementSystem\\DataModels\\AttendanceModel.cs",
@@ -152,18 +285,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwA0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-17T10:30:14.697Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IPaymentService.cs",
-              "DocumentMoniker": "D:\\MyProjects\\GymManagementSystem\\GymManagementSystem\\Services\\IPaymentService.cs",
-              "RelativeDocumentMoniker": "GymManagementSystem\\Services\\IPaymentService.cs",
-              "ToolTip": "D:\\MyProjects\\GymManagementSystem\\GymManagementSystem\\Services\\IPaymentService.cs",
-              "RelativeToolTip": "GymManagementSystem\\Services\\IPaymentService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T12:49:46.259Z"
             }
           ]
         }

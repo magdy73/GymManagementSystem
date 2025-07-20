@@ -15,6 +15,7 @@ builder.Services.AddScoped<IAttendanceService, AttendenceService>();
 builder.Services.AddScoped<ITrainerService, TrainerService>();
 builder.Services.AddScoped<IPaymentService, PaymentService>();
 builder.Services.AddScoped<IAuthService, AuthService>();
+builder.Services.AddScoped<IAdminService, AdminService>();
 
 // Register DbContext
 builder.Services.AddDbContext<AppDbContext>(options =>
